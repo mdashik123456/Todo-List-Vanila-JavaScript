@@ -1,5 +1,4 @@
 const inputEl = document.querySelector("#input");
-const buttonEl = document.querySelector("#delete");
 const outputEl = document.querySelector("#list-container");
 const form = document.querySelector("form");
 
